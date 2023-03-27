@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabrouw
+- 👋 Hi, I’m @sab
 - 👀 I’m interested in developpement web
 - 🌱 I’m currently learning symfony
 - 💞️ 
